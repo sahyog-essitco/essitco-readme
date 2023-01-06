@@ -1,0 +1,2 @@
+# essitco-readme
+Developer guidelines
